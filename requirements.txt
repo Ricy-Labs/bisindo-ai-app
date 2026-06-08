@@ -1,8 +1,9 @@
 streamlit==1.45.1
 streamlit-webrtc==0.47.9
 mediapipe==0.10.33
-opencv-python-headless==4.11.0.86
-numpy==1.26.4
-scikit-learn==1.6.1
+opencv-python-headless
+numpy
+scikit-learn
 groq==0.28.0
-Pillow==11.2.1
+Pillow==10.4.0
+av==14.2.0
