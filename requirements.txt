@@ -6,4 +6,4 @@ numpy
 scikit-learn
 groq==0.28.0
 Pillow==10.4.0
-av==14.2.0
+av==12.3.0
