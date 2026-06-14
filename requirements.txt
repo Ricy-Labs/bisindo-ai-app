@@ -7,3 +7,4 @@ scikit-learn
 groq==0.28.0
 Pillow==10.4.0
 av==12.3.0
+aioice==0.9.0
