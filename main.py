@@ -1168,10 +1168,8 @@ elif page == "📷  Gesture Detector":
             key="bisindo-az",
             video_processor_factory=GestureProcessor,
             rtc_configuration=RTCConfiguration({"iceServers": [
-                {"urls": ["stun:stun.l.google.com:19302"]},
-                {"urls": ["stun:stun1.l.google.com:19302"]},
-                {"urls": ["turn:a.relay.metered.ca:80"], "username": "bisindo", "credential": "bisindo123"},
-                {"urls": ["turn:a.relay.metered.ca:443"], "username": "bisindo", "credential": "bisindo123"},
+              {"urls": ["stun:stun.l.google.com:19302"]},
+              {"urls": ["stun:stun1.l.google.com:19302"]},
             ]}),
             media_stream_constraints={
                 "video": {
