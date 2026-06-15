@@ -1,6 +1,7 @@
 [server]
 runOnSave = false
 headless = true
+fileWatcherType = "none"
 
 [runner]
 fastReruns = false
