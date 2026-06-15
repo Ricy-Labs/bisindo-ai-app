@@ -1,0 +1,4 @@
+[server]
+runOnSave = false
+[runner]
+fastReruns = false
