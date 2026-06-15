@@ -2,9 +2,11 @@
 runOnSave = false
 headless = true
 fileWatcherType = "none"
+maxUploadSize = 10
 
 [runner]
 fastReruns = false
+magicEnabled = false
 
 [browser]
 gatherUsageStats = false
